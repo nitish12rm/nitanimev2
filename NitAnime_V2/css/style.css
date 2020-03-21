@@ -1,0 +1,150 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+background-color: #315b96;
+
+}
+.menubar{
+
+  width: 100%;
+  background-color:  #00eb8d;
+  height: 50px;
+
+
+}
+
+.a{
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 100px;
+
+  color: #d63447;
+}
+.wrapper{
+  margin:0 auto 0 80px ;
+  width: 1020px;
+  height: auto;
+display: inline-block;
+background-color: #ffffff;
+}
+.menul{
+margin-left: 60px;
+}
+.menulist{
+list-style: none;
+display: inline-block;
+line-height: 50px;
+
+}
+.menua{
+  display: block;
+color: black;
+  text-decoration: none;
+font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  margin:0 20px;
+}
+a:hover{
+  color: red;
+}
+.frontcontainer{
+ text-align: center;
+ position: relative;
+ top:80px;
+
+
+}
+
+
+.nitanime_logo{
+  height: 600px;
+
+  float:left;
+  position:relative;
+  bottom: 100px;
+}
+.desc{
+position: absolute;
+top: 200px;
+left:600px;
+right:100px;
+  font-family: 'Baloo Da 2', cursive;
+
+}
+.categcontent{
+  margin-left: 50px;
+  text-align: left;
+  padding: 20px;
+
+}
+.categlist{
+  list-style: none;
+}
+.categdesc{
+text-decoration: none;
+font-size: 40px;
+color: black;
+font-family: 'Oswald', sans-serif;
+}
+.maincontent{
+  margin-top: 80px;
+}
+.shonenimg{
+  float: left;
+  height: 250px;
+  width: 300px;
+  position: relative;
+  top: 0;
+  display: block;
+
+}
+.cont_tiles{
+display: inline-block;
+  text-align: center;
+
+  height: 250px;
+  width: 1000px;
+margin: 20px 0;
+
+border-style: solid;
+border-color:#f95959;
+border-width: 10px;
+border-radius: 10px;
+
+
+}
+.conthover:hover{
+  color: red;
+}
+.h2titleshonen{
+  text-decoration: none;
+  color: black;
+}
+.shonendesc{
+text-decoration: none;
+color: black;
+position: relative;
+top:100px;
+
+}
+.a_shonen{
+  text-decoration: none;
+}
+a{
+  font-family: 'Oswald', sans-serif;
+}
+.footer {
+position: relative;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  background-color: #00eb8d;
+  color: black;
+  text-align: center;
+  line-height: 50px;
+}
+p{
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
